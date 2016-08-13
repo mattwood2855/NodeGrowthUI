@@ -67,6 +67,7 @@
   <ItemGroup>
     <Content Include="app\app.directives.js" />
     <Content Include="app\app.js" />
+    <Content Include="app\components\rooms\controllers\rooms.controller.js" />
     <Content Include="app\components\rooms\templates\rooms.html" />
     <Content Include="app\components\settings\templates\settings.html" />
     <Content Include="app\shared\topNavBar\topNavBar.html" />

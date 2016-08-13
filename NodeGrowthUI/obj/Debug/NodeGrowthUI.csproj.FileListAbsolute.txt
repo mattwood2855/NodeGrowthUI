@@ -4,3 +4,9 @@ c:\users\gin\Documents\Visual Studio 2013\Projects\NodeGrowthUI\NodeGrowthUI\bin
 c:\users\gin\Documents\Visual Studio 2013\Projects\NodeGrowthUI\NodeGrowthUI\obj\Debug\NodeGrowthUI.csprojResolveAssemblyReference.cache
 c:\users\gin\Documents\Visual Studio 2013\Projects\NodeGrowthUI\NodeGrowthUI\obj\Debug\NodeGrowthUI.dll
 c:\users\gin\Documents\Visual Studio 2013\Projects\NodeGrowthUI\NodeGrowthUI\obj\Debug\NodeGrowthUI.pdb
+D:\GitHub\NodeGrowthUI\NodeGrowthUI\bin\NodeGrowthUI.dll.config
+D:\GitHub\NodeGrowthUI\NodeGrowthUI\bin\NodeGrowthUI.dll
+D:\GitHub\NodeGrowthUI\NodeGrowthUI\bin\NodeGrowthUI.pdb
+D:\GitHub\NodeGrowthUI\NodeGrowthUI\obj\Debug\NodeGrowthUI.csprojResolveAssemblyReference.cache
+D:\GitHub\NodeGrowthUI\NodeGrowthUI\obj\Debug\NodeGrowthUI.dll
+D:\GitHub\NodeGrowthUI\NodeGrowthUI\obj\Debug\NodeGrowthUI.pdb

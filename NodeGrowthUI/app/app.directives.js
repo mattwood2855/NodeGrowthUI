@@ -11,8 +11,18 @@ app.directive('rooms', function () {
         restrict: 'E',
         templateUrl: '/app/components/rooms/templates/rooms.html',
         controller: ['$scope', function ($scope) {
-
-            console.log("test");
+            $scope.rooms = [
+                {
+                    name: 'Veg Room',
+                    errors: [],
+                    lights: []
+                },
+                {
+                    name: 'Flower Room',
+                    errors: [],
+                    lights: []
+                }
+            ];
         }]
     };
 });
