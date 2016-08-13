@@ -15,8 +15,11 @@
 </head>
 <body ng-app="NodeGrowth">
     <top-nav-bar></top-nav-bar>
-    <rooms></rooms>
-    <settings ng-if="false"></settings>
+    <div id="app-body" class="container">
+        <rooms ng-if="true"></rooms>
+        <settings ng-if="false"></settings>
+    </div>
+    
     
     <script src="https://code.jquery.com/jquery-3.1.0.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>

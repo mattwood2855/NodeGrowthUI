@@ -1,3 +1,14 @@
-﻿<div ng-repeat="room in rooms">
-    <p>{{room.name}}</p>
+﻿
+<div ng-repeat="room in rooms">
+    <div class="tile lift-on-hover col-xs-12">
+        <p>{{room.name}}</p>
+    </div>
+</div>
+
+<div id="footer" class="container">
+    <nav class="navbar navbar-inverse navbar-fixed-bottom ">
+        <div class="navbar-inner navbar-content-center">
+            <button class="btn btn-lg btn-primary col-xs-12">New Room</button>
+        </div>
+    </nav>
 </div>
